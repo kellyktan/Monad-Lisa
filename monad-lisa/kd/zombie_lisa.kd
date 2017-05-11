@@ -1,0 +1,5 @@
+filepath data/mona_lisa.jpg
+colorInvert
+flipH
+contrast 0.2
+border 25 (0, 0, 0)

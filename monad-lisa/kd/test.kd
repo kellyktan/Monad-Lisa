@@ -1,0 +1,4 @@
+filepath data/flower.jpg
+grayscale
+blur 2
+border 20 (255, 255, 255)

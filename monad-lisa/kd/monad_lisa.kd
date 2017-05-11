@@ -1,0 +1,5 @@
+filepath data/mona_lisa.jpg
+contrast 0.2
+brighten 0.2
+saturate 0.1
+border 25 (255, 255, 255)
